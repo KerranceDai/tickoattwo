@@ -134,7 +134,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="tickoattwo.rc" />
+    <ResourceCompile Include="resources.rc" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="icon.ico" />
